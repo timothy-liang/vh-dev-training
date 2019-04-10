@@ -19,6 +19,7 @@
 	],
 	"license": "SEE LICENSE IN LICENSE.md",
 	"dependencies": {
+		"https-proxy-agent": "^2.2.1",
 		"koa": "^2.7.0",
 		"koa-router": "^7.4.0",
 		"node-fetch": "^2.3.0",
